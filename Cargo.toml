@@ -1,0 +1,7 @@
+[package]
+name = "rusttest"
+version = "0.1.0"
+authors = ["Romain Porte <microjoe@microjoe.org>"]
+
+[dependencies]
+amqp = "0.0.16"
